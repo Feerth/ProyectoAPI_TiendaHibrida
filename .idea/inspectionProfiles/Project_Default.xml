@@ -1,0 +1,59 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="JavadocDeclaration" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ADDITIONAL_TAGS" value="Autor:" />
+    </inspection_tool>
+    <inspection_tool class="VulnerableLibrariesLocal" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="isIgnoringEnabled" value="true" />
+      <option name="ignoredModules">
+        <list>
+          <option value="POO_TiendaHibridaTEST" />
+          <option value="POO_TiendaHibridaTEST" />
+          <option value="POO_TiendaHibridaTEST" />
+          <option value="POO_TiendaHibridaTEST" />
+          <option value="POO_TiendaHibridaTEST" />
+          <option value="POO_TiendaHibridaTEST" />
+          <option value="POO_TiendaHibridaTEST" />
+          <option value="POO_TiendaHibridaTEST" />
+          <option value="POO_TiendaHibridaTEST" />
+          <option value="POO_TiendaHibridaTEST" />
+          <option value="POO_TiendaHibridaTEST" />
+          <option value="POO_TiendaHibridaTEST" />
+        </list>
+      </option>
+      <option name="ignoredPackages">
+        <list>
+          <option value="org.springframework:spring-context:6.1.14" />
+          <option value="org.springframework.boot:spring-boot:3.3.5" />
+          <option value="net.minidev:json-smart:2.5.1" />
+          <option value="org.xmlunit:xmlunit-core:2.9.1" />
+          <option value="org.apache.tomcat.embed:tomcat-embed-core:10.1.31" />
+          <option value="org.springframework:spring-web:6.1.14" />
+          <option value="org.apache.commons:commons-lang3:3.14.0" />
+          <option value="org.springframework:spring-webmvc:6.1.14" />
+          <option value="ch.qos.logback:logback-classic:1.5.11" />
+          <option value="ch.qos.logback:logback-core:1.5.11" />
+          <option value="org.springframework:spring-beans:6.1.14" />
+          <option value="org.springframework:spring-core:6.1.14" />
+        </list>
+      </option>
+      <option name="ignoredReasons">
+        <list>
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
