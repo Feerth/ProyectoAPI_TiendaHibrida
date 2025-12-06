@@ -57,4 +57,3 @@
 | **Total vendido** | `GET /api/ventas/total?desde=2025-01-01&hasta=2025-12-31` | Agregación con `SUM` y `JOIN` |
 
 ---
-
